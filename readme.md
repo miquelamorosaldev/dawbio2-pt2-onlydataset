@@ -2,7 +2,7 @@
 
 ** 🛈 Aquest repositori només conté una plantilla web, si vols fer la pràctica recomano que segueixis des d'aquest repositori 🛈 **
 
-https://github.com/miquelamorosaldev/dawbio2-flask-maps/blob/main/readme.md
+https://github.com/miquelamorosaldev/dawbio2-pt2-template-flask/blob/main/readme.md
 
 L'objectiu de la pràctica és crear un portal de dades obertes amb:
 
